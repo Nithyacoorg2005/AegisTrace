@@ -10,9 +10,9 @@ structural, schema, and OPA-style policy checks.
 ## Stack
 
 - **Python 3.13** / **FastAPI** — HTTP API
-- **NetworkX** — 6-node directed acyclic service graph and d-separation traversal
-- **NumPy** — Gaussian telemetry sampling, Z-score vectors, chi-square thresholding
-- **PyYAML** — in-memory Kubernetes Deployment parse/patch/serialize
+- **NetworkX** --> 6-node directed acyclic service graph and d-separation traversal
+- **NumPy** --> Gaussian telemetry sampling, Z-score vectors, chi-square thresholding
+- **PyYAML** --> in-memory Kubernetes Deployment parse/patch/serialize
 
 ## Architecture
 
